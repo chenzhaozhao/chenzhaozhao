@@ -144,10 +144,10 @@
           stats
         </p>
         <p>
-          <iframe width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chenzhaozhao&&count_private=true"></iframe>
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+        <a>
+        <img src="https://github-readme-stats.vercel.app/api?username=chenzhaozhao&&count_private=true&show_icons=true&theme=radical"></img>
+        </a>
         </p>
       </article>
     </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
