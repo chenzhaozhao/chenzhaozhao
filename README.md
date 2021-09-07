@@ -1,6 +1,4 @@
 <div class="Box-body p-4">
-      <div class="d-flex flex-justify-between">
-      </div>
       <article class="markdown-body entry-content container-lg f5" itemprop="text">
         <h3>hey there <a target="_blank" rel="noopener noreferrer"
             href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img
@@ -94,9 +92,9 @@
           <strong>this week i spent my time on:</strong>
         </p>
         <div class="snippet-clipboard-content position-relative">
-          JSX          3 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.17 %
-                JavaScript 3 hrs 51 mins ████████████▒░░░░░░░░░░░░ 49.54 %
-                CSS 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.24 %
+        <p>JSX      3 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.17 %</p>
+        <p>JavaScript 3 hrs 51 mins ████████████▒░░░░░░░░░░░░ 49.54 %</p>
+        <p>CSS 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.24 %</p>
          <div class="zeroclipboard-container position-absolute right-0 top-0">
          <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay"
               data-copy-feedback="Copied!" data-tooltip-direction="w" value="JSX          3 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.17 % 
@@ -147,6 +145,9 @@
         </p>
         <p>
           <iframe width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chenzhaozhao&&count_private=true"></iframe>
+          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
         </p>
       </article>
     </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
