@@ -93,8 +93,8 @@
         </p>
         <div class="snippet-clipboard-content position-relative">
         <p>JSX      3 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.17 %</p>
-        <p>JavaScript 3 hrs 51 mins ████████████▒░░░░░░░░░░░░ 49.54 %</p>
-        <p>CSS 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 00.24 %</p>
+        <p>JavaScript 3 hrs 51 mins ████████████▒░░░░░░░░░░░░   49.54 %</p>
+        <p>CSS 1 min                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %</p>
          <div class="zeroclipboard-container position-absolute right-0 top-0">
          <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay"
               data-copy-feedback="Copied!" data-tooltip-direction="w" value="JSX          3 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.17 % 
