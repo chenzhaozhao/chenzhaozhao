@@ -19,8 +19,8 @@
             style="max-width: 100%;margin-left:10px;border-radius:100%">
         </a>
         <p><a target="_blank" rel="noopener noreferrer"
-            href="https://komarev.com/ghpvc/?username=chenzhaozhao&color=green"><img
-              src="https://komarev.com/ghpvc/?username=chenzhaozhao&color=green"
+            href="https://komarev.com/ghpvc/?username=chenzhaozhao&color=red"><img
+              src="https://komarev.com/ghpvc/?username=chenzhaozhao&color=red"
               alt="" data-canonical-src="https://komarev.com/ghpvc/?username=chenzhaozhao"
               style="max-width: 100%;margin-left:10px"></a></p>
         <br>
